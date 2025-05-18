@@ -131,9 +131,9 @@ Create a dashboard to test:
 
 Overlay demographic or income data to target green interventions where people are most vulnerable.
 
-### 🌐 5. Public Dashboard
+###  5. Impact of Climate Change on cities
 
-Build a Streamlit or Mapbox interface to let stakeholders explore UHI patterns and recommendations.
+Study the impact of Climate Change using 2050 climate scenarios.
 
 ---
 
